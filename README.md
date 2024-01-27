@@ -1,0 +1,10 @@
+- Data is organized by day, covering the duration between 20 March 2023 and 30 May 2023
+- Each subfolder contains 1 file for the trial herd and 1 file for the control herd
+- Columns: 
+    - The MPC number is the methane sensor ID
+    - The ID time is the time when a cow enters the shed and its RFID tag is scanned
+    - Methane value is in parts-per-million (ppm)
+    - Yield is in liter (L)
+    - F and P stand for fat and protein content in percentage
+    - ECM is energy corrected milk in liter (L)
+    - Seafeed is in millilitre (mL)
